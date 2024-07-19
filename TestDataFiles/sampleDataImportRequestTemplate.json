@@ -1,0 +1,27 @@
+{
+  "fileUrl": "katalon_OPUS_backendSamples.zip",
+  "fileName": "katalon_OPUS_backendSamples.zip",
+  "handleSecurity": false,
+  "handleSettings": false,
+  "handleBinaryData": false,
+  "exportManifest": {
+    "author": "admin",
+    "systemInfo": null,
+    "platformVersion": "3.271.0",
+    "handleSettings": false,
+    "handleDynamicProperties": false,
+    "handleSecurity": false,
+    "handleBinaryData": false,
+    "modules": [
+      {
+        "partUri": "VirtoCommerce.Catalog.json",
+        "id": "VirtoCommerce.Catalog",
+        "version": "3.253.0"
+      }
+    ],
+    "options": [],
+    "created": "2023-02-15T15:23:13.1011852Z",
+    "checksum": null
+  },
+  "modules": ["VirtoCommerce.Catalog"]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>supplier portal vendor create
+</description>
+   <name>vendorCreateUpdate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a973b1cd-1c36-4fe4-81ee-4d01024f7f45</testCaseGuid>
+</TestCaseEntity>

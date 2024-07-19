@@ -1,0 +1,14 @@
+{
+  "addressType": "Billing",
+  "name": "name, name, name, name",
+  "countryCode": "USA",
+  "countryName": "United States of America",
+  "city": "city",
+  "postalCode": "102938",
+  "line1": "line1",
+  "line2": "line2",
+  "regionName": "regionName",
+  "firstName": "firstName",
+  "lastName": "lastName",
+  "isDefault": true
+}

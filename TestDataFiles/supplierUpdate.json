@@ -1,0 +1,29 @@
+{
+	"supplierId": "",
+	"supplierDetails": {
+		"name": "",
+		"outerId": "",
+		"objectType": "VirtoCommerce.CustomerModule.Core.Model.Organization",
+		"dynamicProperties": [],
+		"isActive": true,
+		"isConnected": false,
+		"supportedIntegrationType": "None",
+		"getBalanceVendorId": null,
+		"addresses": [],
+		"phones": [],
+		"emails": [],
+		"categories": [],
+		"paymentMethods": [],
+		"dataConnections": [
+			{
+				"dataClientTypeName": "SupplierApiDataClient",
+				"integrationType": "All",
+				"json": ""
+			}
+		],
+		"productProperties": [],
+		"id": "",
+		"iconUrl": null,
+		"supplierId": ""
+	}
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>vendor portal create import profile</description>
+   <name>importProfileAdd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8221138d-205d-4158-997b-19ef0fcaed2b</testCaseGuid>
+</TestCaseEntity>

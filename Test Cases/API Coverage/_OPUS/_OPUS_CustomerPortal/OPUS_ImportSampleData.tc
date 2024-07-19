@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>import OPUS catalog</description>
+   <name>OPUS_ImportSampleData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fafe69c1-fb80-4d8a-851b-98b735842521</testCaseGuid>
+</TestCaseEntity>

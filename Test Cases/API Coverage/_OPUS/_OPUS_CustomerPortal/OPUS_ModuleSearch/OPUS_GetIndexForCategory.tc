@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get the list of documentTypes (member,product etc) available for indexation</description>
+   <name>OPUS_GetIndexForCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d170ca9d-57e9-464b-898e-12c70aacd1b1</testCaseGuid>
+</TestCaseEntity>

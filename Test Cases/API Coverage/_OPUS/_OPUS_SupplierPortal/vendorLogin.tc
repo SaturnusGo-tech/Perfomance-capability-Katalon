@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>log in as a created vendor</description>
+   <name>vendorLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90f57718-72ad-4304-be65-a6bccd1afd9d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>orderCreate_multisupplier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d349ba70-b635-454e-af0b-c2825afd934d</testCaseGuid>
+</TestCaseEntity>

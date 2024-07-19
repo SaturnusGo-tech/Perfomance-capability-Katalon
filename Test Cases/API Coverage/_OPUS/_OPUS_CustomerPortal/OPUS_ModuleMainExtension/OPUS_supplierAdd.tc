@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a supplier and import products</description>
+   <name>OPUS_supplierAdd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb754890-7e4f-4d76-892f-e191fe95fdc6</testCaseGuid>
+</TestCaseEntity>

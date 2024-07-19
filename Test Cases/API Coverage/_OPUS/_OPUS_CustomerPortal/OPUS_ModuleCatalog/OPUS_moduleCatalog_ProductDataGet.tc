@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search product from OPUS catalog</description>
+   <name>OPUS_moduleCatalog_ProductDataGet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6747954f-7370-4b37-bca7-308e0091ab86</testCaseGuid>
+</TestCaseEntity>

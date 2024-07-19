@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>vendor profile import products csv</description>
+   <name>importProfileImportProducts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40228b64-a548-4d6c-b33a-ff1d7bae486e</testCaseGuid>
+</TestCaseEntity>
